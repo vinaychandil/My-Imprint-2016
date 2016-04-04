@@ -16,7 +16,7 @@
   <div class="navbar-fixed">
     <nav class="white" role="navigation">
       <div class="nav-wrapper">
-        <a href="#" class="brand-logo left"style="padding-left: 10px; padding-top: 5px;"><img src="Logo.png" width="160px"></a>
+        <a href="#" class="brand-logo left"style="padding-left: 10px; padding-top: 5px;"><img src="logo.png" width="160px"></a>
         <ul class="right hide-on-med-and-down">
           <li><a class="waves-effect waves-light"href="#what">WHAT?</a></li>
           <li><a class="waves-effect waves-light"href="#why">WHY</a></li>
