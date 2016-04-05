@@ -223,7 +223,7 @@
           </div>
           <div class="card-reveal">
             <span class="card-title grey-text text-darken-4">Recreation Room in Nalanda<i class="material-icons right">close</i></span>
-            <p class="smalltext">A room solely dedicated for purpose of recreation. Will have indoor games like Table Tennis,football, carom, chess etc.A room solely dedicated for purpose of recreation. It will have indoor games like Table Tennis, football, carom, chess</p>
+            <p class="smalltext">A room solely dedicated for purpose of recreation. It will have indoor games like Table Tennis, foosball, carom, chess</p>
           </div>
         </div>
       </div>
@@ -237,7 +237,7 @@
           </div>
           <div class="card-reveal">
             <span class="card-title grey-text text-darken-4">Water Fountain<i class="material-icons right">close</i></span>
-            <p class="smalltext">A water fountain with ‘Class of 2016’ placed on top of a stone/marble structure in the middle of it.</p>
+            <p class="smalltext">A water fountain with ‘Class of 2016’ written on a stone/marble structure situated in the middle of the fountain.</p>
           </div>
         </div>
       </div>
@@ -268,7 +268,7 @@
           </div>
           <div class="card-reveal">
             <span class="card-title grey-text text-darken-4">Social & Cultural Hall<i class="material-icons right">close</i></span>
-            <p class="smalltext">A dedicated hall for purpose of social and cultural activities. Will be equipped with full length mirror walls and quality sound system.
+            <p class="smalltext">A dedicated hall for purpose of social and cultural activities. It will be equipped with full length mirror walls and quality sound system.
             </p>
           </div>
         </div>
