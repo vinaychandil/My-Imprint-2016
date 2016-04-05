@@ -49,10 +49,10 @@
   <div class="container scrollspy"id="what">
     <p class="menuheading">What is Senior Class Gift 2016 ?</p> 
     <p class="text">
-      IIT-KGP has a long and historic legacy of Alumni Giving Back which has existed in one or the other form. The Graduating Class Gift is yet another chapter to be added in KGP alumni legacy initiated under My Imprint Program.<br><br>
+     IIT-KGP has a long and historic legacy of Alumni Giving Back which has existed in different forms. The Graduating Class Gift is yet another chapter to be added in KGP alumni legacy initiated under My Imprint Programme.
 
-      It is a class-based effort directed towards raising unrestricted fund partially used currently and partially going towards Endowment. This particular part of the Endowment would again be utilized for students' services only. It is an opportunity for graduating students to take their first step in being soon-to-be alumni by making their Graduating Class Gift, the gift which impacts student life in the KGP campus. This challenge offers seniors the chance not only to make a gift, but also to leave behind their imprint. 
-    </p>
+    It is a class-based effort directed towards raising unrestricted funds from students of graduating batch. A part of the collected fund is used for Senior Class Gift while the rest goes towards Endowment. The Endowment would again be utilized for students' services only. It is an opportunity for graduating students to take their first step in being soon-to-be alumni by making their Graduating Class Gift, the gift which impacts student life in the KGP campus. This challenge offers seniors the chance not only to make a gift, but also to leave behind their imprint.
+     </p>
   </div>
   <div class="fixed-action-btn" style="bottom: 295px; right: 0px;">
     <a class="btn btn-large red modal-trigger" href="#modal1" style="padding-left: 40px;padding-right: 40px">VOTE NOW</a>
@@ -143,7 +143,7 @@
           <div class="row">
             <div class="col s12 l12 m12">
               <p class="menuheading">Why your gift matters, at a big institute like IIT Kharagpur?</p> 
-              <p class="text">Many of us don't realize that government fund can never cover all of the IIT-KGP experience. If IIT-KGP wants to start a new pre-professional program, support an innovative student project, or expand student life opportunities, philanthropy makes it possible. </p>
+              <p class="text">Many of us don't realize that government fund can never cover all of the IIT-KGP experiences. If IIT-KGP wants to start a new pre-professional program, support an innovative student project, or expand student life opportunities, philanthropy makes it possible. </p>
 
             </div>
           </div>
@@ -192,7 +192,7 @@
           </div>
           <div class="card-reveal">
             <span class="card-title grey-text text-darken-4">Bulletin Screen<i class="material-icons right">close</i></span>
-            <p class="smalltext">The class can gift bulletin screen which will be installed at strategic location preferably Main Building, Gymkhana, Nalanda Classroom Complex, etc. These will be used for displaying important information and happenings in KGP.</p>
+            <p class="smalltext">The class can gift bulletin screen which will be installed at strategic location preferably Main Building, Gymkhana, Nalanda. These will be used for displaying important information and happenings in KGP.</p>
           </div>
         </div>
       </div>
