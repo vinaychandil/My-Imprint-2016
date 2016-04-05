@@ -592,7 +592,7 @@
             <img src="">
           </div>
           <div class="card-content">
-            <center><p>Tisha Milinf Dixit<br>SN</p></center>
+            <center><p>Tisha Milind Dixit<br>SN</p></center>
           </div>
         </div>
       </div>
