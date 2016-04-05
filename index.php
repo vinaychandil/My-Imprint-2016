@@ -311,7 +311,7 @@
         <div class="collapsible-body"><p class="text">Donations would be captured trough ERP <br>An ERP link would be developed on profiles of all the potential passing out students to vote for their Senior Class Gift  </p></div>
       </li>
       <li>
-        <div class="collapsible-header" active>HOW TO DONATE?</div>
+        <div class="collapsible-header active" >HOW TO DONATE?</div>
         <div class="collapsible-body"><p class="text">Donations would be captured trough ERP <br>An ERP link would be developed on profiles of all the potential passing out students to donate their caution money </p></div>
       </li>
     </ul></center>
