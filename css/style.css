@@ -68,6 +68,7 @@ footer.page-footer {
   font-family: 'Raleway', sans-serif; 
   text-align: center;
   font-weight: 600;
+  text-transform:uppercase;
 }
 .nav-wrapper ul a
 {
