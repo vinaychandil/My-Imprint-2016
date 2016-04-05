@@ -18,7 +18,7 @@
       <div class="nav-wrapper">
         <a href="#" class="brand-logo left"style="padding-left: 10px; padding-top: 5px;"><img src="Logo.png" width="160px"></a>
         <ul class="right hide-on-med-and-down">
-          <li><a class="waves-effect waves-light"href="#what">WHAT?</a></li>
+          <li><a class="waves-effect waves-light"href="#what">WHAT</a></li>
           <li><a class="waves-effect waves-light"href="#why">WHY</a></li>
           <li><a class="waves-effect waves-light"href="#options">OPTIONS</a></li>
           <li><a class="waves-effect waves-light"href="#how">HOW TO</a></li>
@@ -327,7 +327,7 @@
               <img src="background1.jpg">
             </div>
             <div class="card-content">
-              <p>Pranshu Jain<br>Students' Alumni Cell G-Sec</p>
+              <center><p>Pranshu Jain<br>Students' Alumni Cell G-Sec</p></center>
             </div>
           </div>
         </div>
@@ -337,7 +337,7 @@
               <img src="background1.jpg">
             </div>
             <div class="card-content">
-              <p>Rohan Gupta<br>Students' Alumni Cell G-Sec</p>
+              <center><p>Rohan Gupta<br>Students' Alumni Cell G-Sec</p></center>
             </div>
           </div>
         </div>
@@ -347,7 +347,7 @@
               <img src="background1.jpg">
             </div>
             <div class="card-content">
-              <p>Atal Ashutosh Agarwal<br>Vice President, Gymkhana</p>
+              <center><p>Atal Ashutosh Agarwal<br>Vice President, Gymkhana</p></center>
             </div>
           </div>
         </div>
@@ -359,7 +359,7 @@
               <img src="background1.jpg">
             </div>
             <div class="card-content">
-              <p>Manish Goyal<br>Ex-SAC G-Sec</p>
+              <center><p>Manish Goyal<br>Ex-SAC G-Sec</p></center>
             </div>
           </div>
         </div>
@@ -369,7 +369,7 @@
               <img src="background1.jpg">
             </div>
             <div class="card-content">
-              <p>Arpit Gupta<br>Ex-SAC G-Sec</p>
+              <center><p>Arpit Gupta<br>Ex-SAC G-Sec</p></center>
             </div>
           </div>
         </div>
@@ -379,7 +379,7 @@
               <img src="background1.jpg">
             </div>
             <div class="card-content">
-              <p>Punj Rajan<br>Ex-VP Gymkhana </p>
+              <center><p>Punj Rajan<br>Ex-VP Gymkhana </p></center>
             </div>
           </div>
         </div>
@@ -391,7 +391,7 @@
               <img src="background1.jpg">
             </div>
             <div class="card-content">
-              <p>I am a very simple card. </p>
+              <center><p>I am a very simple card. </p></center>
             </div>
           </div>
         </div>
@@ -401,7 +401,7 @@
               <img src="background1.jpg">
             </div>
             <div class="card-content">
-              <p>I am a very simple card.</p>
+              <center><p>I am a very simple card.</p></center>
             </div>
           </div>
         </div>
@@ -411,7 +411,7 @@
               <img src="background1.jpg">
             </div>
             <div class="card-content">
-              <p>I am a very simple card.</p>
+              <center><p>I am a very simple card.</p></center>
             </div>
           </div>
         </div>
@@ -425,7 +425,7 @@
             <img src="background1.jpg">
           </div>
           <div class="card-content">
-            <p>Bodhisattya Bhattacharya<br>RK</p>
+            <center><p>Bodhisattya Bhattacharya<br>RK</p></center>
           </div>
         </div>
       </div>
@@ -435,7 +435,7 @@
             <img src="background1.jpg">
           </div>
           <div class="card-content">
-            <p>Ashutosh Ranjan<br>Nehru</p>
+            <center><p>Ashutosh Ranjan<br>Nehru</p></center>
           </div>
         </div>
       </div>
@@ -445,7 +445,7 @@
             <img src="background1.jpg">
           </div>
           <div class="card-content">
-            <p>Vaishnavi Kommaraju<br>SN/IG</p>
+            <center><p>Vaishnavi Kommaraju<br>SN/IG</p></center>
           </div>
         </div>
       </div>
@@ -455,7 +455,7 @@
             <img src="background1.jpg">
           </div>
           <div class="card-content">
-            <p>KSVChary<br>LBS</p>
+            <center><p>KSVChary<br>LBS</p></center>
           </div>
         </div>
       </div>
@@ -465,7 +465,7 @@
             <img src="background1.jpg">
           </div>
           <div class="card-content">
-            <p>Shyam Simaria<br>Azad</p>
+            <center><p>Shyam Simaria<br>Azad</p></center>
           </div>
         </div>
       </div>
@@ -475,70 +475,7 @@
             <img src="background1.jpg">
           </div>
           <div class="card-content">
-            <p>Anurag Gautam<br>HJB</p>
-          </div>
-        </div>
-      </div>
-
-    </div>
-    <div class="row">
-      <div class="col l2 s6 m6">
-        <div class="card">
-          <div class="card-image">
-            <img src="background1.jpg">
-          </div>
-          <div class="card-content">
-            <p>Madan Gurjar<br>Patel</p>
-          </div>
-        </div>
-      </div>
-      <div class="col l2 s6 m6">
-        <div class="card">
-          <div class="card-image">
-            <img src="background1.jpg">
-          </div>
-          <div class="card-content">
-            <p>Aman Verma<br>LLR</p>
-          </div>
-        </div>
-      </div>
-      <div class="col l2 s6 m6">
-        <div class="card">
-          <div class="card-image">
-            <img src="background1.jpg">
-          </div>
-          <div class="card-content">
-            <p>Sanjay yadav<br>MS</p>
-          </div>
-        </div>
-      </div>
-      <div class="col l2 s6 m6">
-        <div class="card">
-          <div class="card-image">
-            <img src="background1.jpg">
-          </div>
-          <div class="card-content">
-            <p>Priyanka Jayaswal<br>MT</p>
-          </div>
-        </div>
-      </div>
-      <div class="col l2 s6 m6">
-        <div class="card">
-          <div class="card-image">
-            <img src="background1.jpg">
-          </div>
-          <div class="card-content">
-            <p>Anil Kumar Jangid<br>RP</p>
-          </div>
-        </div>
-      </div>
-      <div class="col l2 s6 m6">
-        <div class="card">
-          <div class="card-image">
-            <img src="background1.jpg">
-          </div>
-          <div class="card-content">
-            <p>Anup Kumar Roy<br>JCB</p>
+            <center><p>Anurag Gautam<br>HJB</p></center>
           </div>
         </div>
       </div>
@@ -551,7 +488,7 @@
             <img src="background1.jpg">
           </div>
           <div class="card-content">
-            <p>Jagannath Panda<br>VS</p>
+            <center><p>Madan Gurjar<br>Patel</p></center>
           </div>
         </div>
       </div>
@@ -561,7 +498,7 @@
             <img src="background1.jpg">
           </div>
           <div class="card-content">
-            <p>Prachi Sharma<br>Gokhale</p>
+            <center><p>Aman Verma<br>LLR</p></center>
           </div>
         </div>
       </div>
@@ -571,7 +508,7 @@
             <img src="background1.jpg">
           </div>
           <div class="card-content">
-            <p>Tanmay Bagui<br>BC ROY</p>
+            <center><p>Sanjay yadav<br>MS</p></center>
           </div>
         </div>
       </div>
@@ -581,7 +518,7 @@
             <img src="background1.jpg">
           </div>
           <div class="card-content">
-            <p>Ashok Shaw<br>BRH</p>
+            <center><p>Priyanka Jayaswal<br>MT</p></center>
           </div>
         </div>
       </div>
@@ -591,7 +528,7 @@
             <img src="background1.jpg">
           </div>
           <div class="card-content">
-            <p>Salwa Ali Khan<br>SAM</p>
+            <center><p>Anil Kumar Jangid<br>RP</p></center>
           </div>
         </div>
       </div>
@@ -601,7 +538,70 @@
             <img src="background1.jpg">
           </div>
           <div class="card-content">
-            <p>Tisha Milinf Dixit<br>SN</p>
+            <center><p>Anup Kumar Roy<br>JCB</p></center>
+          </div>
+        </div>
+      </div>
+
+    </div>
+    <div class="row">
+      <div class="col l2 s6 m6">
+        <div class="card">
+          <div class="card-image">
+            <img src="background1.jpg">
+          </div>
+          <div class="card-content">
+            <center><p>Jagannath Panda<br>VS</p></center>
+          </div>
+        </div>
+      </div>
+      <div class="col l2 s6 m6">
+        <div class="card">
+          <div class="card-image">
+            <img src="background1.jpg">
+          </div>
+          <div class="card-content">
+            <center><p>Prachi Sharma<br>Gokhale</p></center>
+          </div>
+        </div>
+      </div>
+      <div class="col l2 s6 m6">
+        <div class="card">
+          <div class="card-image">
+            <img src="background1.jpg">
+          </div>
+          <div class="card-content">
+            <center><p>Tanmay Bagui<br>BC ROY</p></center>
+          </div>
+        </div>
+      </div>
+      <div class="col l2 s6 m6">
+        <div class="card">
+          <div class="card-image">
+            <img src="background1.jpg">
+          </div>
+          <div class="card-content">
+            <center><p>Ashok Shaw<br>BRH</p></center>
+          </div>
+        </div>
+      </div>
+      <div class="col l2 s6 m6">
+        <div class="card">
+          <div class="card-image">
+            <img src="background1.jpg">
+          </div>
+          <div class="card-content">
+            <center><p>Salwa Ali Khan<br>SAM</p></center>
+          </div>
+        </div>
+      </div>
+      <div class="col l2 s6 m6">
+        <div class="card">
+          <div class="card-image">
+            <img src="background1.jpg">
+          </div>
+          <div class="card-content">
+            <center><p>Tisha Milinf Dixit<br>SN</p></center>
           </div>
         </div>
       </div>
@@ -613,7 +613,7 @@
       <div class="section no-pad-bot">
         <div class="container">
           <div class="row left-align">
-            <h5 class="light left">All Donors will be given Class Gift 2015 t-shirts. </h5>
+            <h5 class="light left">All Donors will be given Class Gift 2016 t-shirts. </h5>
           </div>
         </div>
       </div>
