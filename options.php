@@ -12,7 +12,7 @@
   <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 </head>
 <body>
-	<form method="POST"action=''>
+	<form method="POST"action='options_data.php'>
 	<div class="container">
 		 <p class="menuheading">SLAB 1</p>
     <div class="row">
