@@ -206,7 +206,7 @@
           </div>
           <div class="card-reveal">
             <span class="card-title grey-text text-darken-4">Vending Machines<i class="material-icons right">close</i></span>
-            <p class="smalltext">Class can gift vending machines which will serve as 24 x 7 snacks and drinks station for KGPians.</p>
+            <p class="smalltext">Class can gift vending machines which will serve as 24 x 7 snacks and drinks station for KGPians. This will be installed in various strategic location around campus.</p>
           </div>
         </div>
       </div>
@@ -223,7 +223,7 @@
           </div>
           <div class="card-reveal">
             <span class="card-title grey-text text-darken-4">Recreation Room in Nalanda<i class="material-icons right">close</i></span>
-            <p class="smalltext">A room solely dedicated for purpose of recreation. Will have indoor games like Table Tennis,football, carom, chess etc.</p>
+            <p class="smalltext">A room solely dedicated for purpose of recreation. Will have indoor games like Table Tennis,football, carom, chess etc.A room solely dedicated for purpose of recreation. It will have indoor games like Table Tennis, football, carom, chess</p>
           </div>
         </div>
       </div>
