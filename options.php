@@ -17,8 +17,8 @@
 		 <p class="menuheading">SLAB 1</p>
     <div class="row">
      <div class="col s12 l4 m4">
-     <input type="checkbox" id="test6" checked="checked" />
-     <label for="test6"> <div class="card">
+     <input type="radio" id="slab1_elec" name="vote_slab1" />
+     <label for="slab1_elec"> <div class="card">
         <div class="card-image waves-effect waves-block waves-light">
           <img class="activator" src="img/adventure.png" style="height:192px">
         </div>
@@ -32,6 +32,8 @@
       </div></label>
     </div>
     <div class="col s12 l4 m4">
+    	<input type="radio" id="slab1_bulletin" name="vote_slab1" />
+    	<label for="slab1_bulletin">
       <div class="card">
         <div class="card-image waves-effect waves-block waves-light">
           <img class="activator" src="img/notice.png" style="height:192px">
@@ -44,8 +46,11 @@
           <p class="smalltext">The class can gift bulletin screen which will be installed at strategic location preferably Main Building, Gymkhana, Nalanda Classroom Complex, etc. These will be used for displaying important information and happenings in KGP.</p>
         </div>
       </div>
+      </label>
     </div>
     <div class="col s12 l4 m4">
+    	<input type="radio" id="slab1_vending" name="vote_slab1" />
+    	<label for="slab1_vending">
       <div class="card">
         <div class="card-image waves-effect waves-block waves-light">
           <img class="activator" src="img/vendor.jpg"style="height:192px">
@@ -57,12 +62,14 @@
           <span class="card-title grey-text text-darken-4">Vending Machines<i class="material-icons right">close</i></span>
           <p class="smalltext">Class can gift vending machines which will serve as 24 x 7 snacks and drinks station for KGPians.</p>
         </div>
-      </div>
+      </div></label>
     </div>
   </div>
   <p class="menuheading">SLAB 2</p>
   <div class="row">
     <div class="col s12 l4 m4">
+    	<input type="radio" id="slab2_nalanda" name="vote_slab2" />
+    	<label for="slab2_nalanda">
       <div class="card">
         <div class="card-image waves-effect waves-block waves-light">
           <img class="activator" src="img/recreation.jpg" height="217px">
@@ -74,9 +81,11 @@
           <span class="card-title grey-text text-darken-4">Recreation Room in Nalanda<i class="material-icons right">close</i></span>
           <p class="smalltext">A room solely dedicated for purpose of recreation. Will have indoor games like Table Tennis,football, carom, chess etc.</p>
         </div>
-      </div>
+      </div></label>
     </div>
     <div class="col s12 l4 m4">
+    	<input type="radio" id="slab2_fountain" name="vote_slab2" />
+    	<label for="slab2_fountain">
       <div class="card">
         <div class="card-image waves-effect waves-block waves-light">
           <img class="activator" src="img/water.jpg">
@@ -88,9 +97,11 @@
           <span class="card-title grey-text text-darken-4">Water Fountain<i class="material-icons right">close</i></span>
           <p class="smalltext">A water fountain with ‘Class of 2016’ placed on top of a stone/marble structure in the middle of it</p>
         </div>
-      </div>
+      </div></label>
     </div>
     <div class="col s12 l4 m4">
+    	<input type="radio" id="slab2_discussion" name="vote_slab2" />
+    	<label for="slab2_discussion">
       <div class="card">
         <div class="card-image waves-effect waves-block waves-light">
           <img class="activator" src="img/Library.jpg">
@@ -102,12 +113,14 @@
           <span class="card-title grey-text text-darken-4">Discussion Room in Nalanda<i class="material-icons right">close</i></span>
           <p class="smalltext">A discussion room in Nalanda Classroom Complex equipped with tables and couches enabling students to discuss</p>
         </div>
-      </div>
+      </div></label>
     </div>
   </div>
   <p class="menuheading">SLAB 3</p>
   <div class="row">
     <div class="col s12 l4 m4">
+    	<input type="radio" id="slab3_socult" name="vote_slab3" />
+    	<label for="slab3_socult">
       <div class="card">
         <div class="card-image waves-effect waves-block waves-light">
           <img class="activator" src="img/hall.png">
@@ -120,9 +133,11 @@
           <p class="smalltext">A dedicated hall for purpose of social and cultural activities. Will be equipped with full length mirror walls and quality sound system
           </p>
         </div>
-      </div>
+      </div></label>
     </div>
     <div class="col s12 l4 m4">
+    	<input type="radio" id="slab3_center" name="vote_slab3" />
+    	<label for="slab3_center">
       <div class="card">
         <div class="card-image waves-effect waves-block waves-light">
           <img class="activator" src="img/celebration.png" style="height: 193px">
@@ -134,9 +149,11 @@
           <span class="card-title grey-text text-darken-4">Celebration Centre<i class="material-icons right">close</i></span>
           <p class="smalltext">A celebration centre where students can celebrate birthdays, etc (will have necessary facilities).</p>
         </div>
-      </div>
+      </div></label>
     </div>
     <div class="col s12 l4 m4">
+    	<input type="radio" id="slab3_studio" name="vote_slab3" />
+    	<label for="slab3_studio">
       <div class="card">
         <div class="card-image waves-effect waves-block waves-light">
           <img class="activator" src="img/studio.png">
@@ -148,7 +165,7 @@
           <span class="card-title grey-text text-darken-4">Music Recording Studio<i class="material-icons right">close</i></span>
           <p class="smalltext">It would be the most desirable gift for the students passionate for music. Also it can be used for Institute recording projects.</p>
         </div>
-      </div>
+      </div></label>
     </div>
   </div>
 </div>
