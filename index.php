@@ -308,11 +308,11 @@
     <ul class="collapsible popout">
       <li>
         <div class="collapsible-header active">HOW TO VOTE?</div>
-        <div class="collapsible-body"><p class="text">Voting in different slabs can be either done through clicking on VOTE NOW button or through ERP. An ERP link would be developed on profiles of all graduating students to vote for their Senior Class Gift.</p></div>
+        <div class=""><p class="text">Voting in different slabs can be either done through clicking on VOTE NOW button or through ERP. An ERP link would be developed on profiles of all graduating students to vote for their Senior Class Gift.</p></div>
       </li>
       <li>
         <div class="collapsible-header active" >HOW TO DONATE?</div>
-        <div class="collapsible-body"><p class="text">Donation can be done by clicking on DONATE NOW buuton. Donations would be captured through ERP.
+        <div class=""><p class="text">Donation can be done by clicking on DONATE NOW buuton. Donations would be captured through ERP.
                       An ERP link would be developed on profiles of all graduating students to donate their caution money.</p></div>
       </li>
     </ul></center>
