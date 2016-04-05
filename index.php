@@ -16,7 +16,7 @@
   <div class="navbar-fixed">
     <nav class="white" role="navigation">
       <div class="nav-wrapper">
-        <a href="#" class="brand-logo left"style="padding-left: 10px; padding-top: 5px;"><img src="logo.png" width="160px"></a>
+        <a href="#" class="brand-logo left"style="padding-left: 10px; padding-top: 5px;"><img src="Logo.png" width="160px"></a>
         <ul class="right hide-on-med-and-down">
           <li><a class="waves-effect waves-light"href="#what">WHAT?</a></li>
           <li><a class="waves-effect waves-light"href="#why">WHY</a></li>
@@ -29,7 +29,7 @@
         </ul>
 
         <ul id="nav-mobile" class="side-nav">
-          <li><a href="#what">WHAT?</a></li>
+          <li><a href="#what">WHAT</a></li>
           <li><a href="#why">WHY</a></li>
           <li><a href="#options">OPTIONS</a></li>
           <li><a href="#how">HOW TO</a></li>
@@ -67,7 +67,7 @@
 
 
           <div class="input-field col s12 l6 m12 offset-l3 ">
-            <input name="rollno"pattern="[0-9]{2}[A-Za-z]{2}[0-9]{5}" autofocus placeholder="Roll Number" type="text" required>
+            <input name="rollno" autofocus placeholder="Roll Number" type="text" required>
             <label for="rollno">Roll Number ( 14THXXXXX )</label>
           </div> </div> 
           <div class="row">
@@ -236,7 +236,7 @@
           </div>
           <div class="card-reveal">
             <span class="card-title grey-text text-darken-4">Water Fountain<i class="material-icons right">close</i></span>
-            <p class="smalltext">A water fountain with ‘Class of 2016’ placed on top of a stone/marble structure in the middle of it</p>
+            <p class="smalltext">A water fountain with ‘Class of 2016’ placed on top of a stone/marble structure in the middle of it.</p>
           </div>
         </div>
       </div>
@@ -250,7 +250,7 @@
           </div>
           <div class="card-reveal">
             <span class="card-title grey-text text-darken-4">Discussion Room in Nalanda<i class="material-icons right">close</i></span>
-            <p class="smalltext">A discussion room in Nalanda Classroom Complex equipped with tables and couches enabling students to discuss</p>
+            <p class="smalltext">A discussion room in Nalanda Classroom Complex equipped with tables and couches enabling students to discuss.</p>
           </div>
         </div>
       </div>
@@ -267,7 +267,7 @@
           </div>
           <div class="card-reveal">
             <span class="card-title grey-text text-darken-4">Social & Cultural Hall<i class="material-icons right">close</i></span>
-            <p class="smalltext">A dedicated hall for purpose of social and cultural activities. Will be equipped with full length mirror walls and quality sound system
+            <p class="smalltext">A dedicated hall for purpose of social and cultural activities. Will be equipped with full length mirror walls and quality sound system.
             </p>
           </div>
         </div>
@@ -378,7 +378,7 @@
               <img src="background1.jpg">
             </div>
             <div class="card-content">
-              <p>I am a very simple card. </p>
+              <p>Punj Rajan<br>Ex-VP Gymkhana </p>
             </div>
           </div>
         </div>
@@ -424,7 +424,7 @@
             <img src="background1.jpg">
           </div>
           <div class="card-content">
-            <p>Bodhi Satya Bhattacharya<br>RK</p>
+            <p>Bodhisattya Bhattacharya<br>RK</p>
           </div>
         </div>
       </div>
@@ -604,7 +604,6 @@
           </div>
         </div>
       </div>
-
     </div>
   </div>
   <div class="scrollspy" id="recognition">
@@ -627,7 +626,6 @@
         <div class="card">
           <div class="card-image">
             <img src="img/classgift.jpg">
-
           </div>
           <div class="card-content">
            <span class="card-title">CLASS GIFT OF 2015</span>
@@ -640,7 +638,6 @@
         <div class="card">
           <div class="card-image">
             <img src="img/2014.jpg">
-
           </div>
           <div class="card-content" style="height: 248px">
            <span class="card-title">CLASS GIFT OF 2014</span>
@@ -650,7 +647,6 @@
         </div>
       </div>
     </div>
-
   </div>
   <div id="contact" class="scrollspy">
     <footer class="page-footer white"><center>
