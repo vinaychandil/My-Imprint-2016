@@ -283,7 +283,7 @@
           </div>
           <div class="card-reveal">
             <span class="card-title grey-text text-darken-4">Celebration Centre<i class="material-icons right">close</i></span>
-            <p class="smalltext">A celebration centre where students can celebrate birthdays, etc (will have necessary facilities).</p>
+            <p class="smalltext">A celebration centre where students can celebrate birthdays and festive occasion. It will have all necessary facilities.</p>
           </div>
         </div>
       </div>
@@ -308,11 +308,12 @@
     <ul class="collapsible popout">
       <li>
         <div class="collapsible-header active">HOW TO VOTE?</div>
-        <div class="collapsible-body"><p class="text">Donations would be captured trough ERP <br>An ERP link would be developed on profiles of all the potential passing out students to vote for their Senior Class Gift  </p></div>
+        <div class="collapsible-body"><p class="text">Voting in different slabs can be either done through clicking on VOTE NOW button or through ERP. An ERP link would be developed on profiles of all graduating students to vote for their Senior Class Gift.</p></div>
       </li>
       <li>
         <div class="collapsible-header active" >HOW TO DONATE?</div>
-        <div class="collapsible-body"><p class="text">Donations would be captured trough ERP <br>An ERP link would be developed on profiles of all the potential passing out students to donate their caution money </p></div>
+        <div class="collapsible-body"><p class="text">Donation can be done by clicking on DONATE NOW buuton. Donations would be captured through ERP.
+                      An ERP link would be developed on profiles of all graduating students to donate their caution money.</p></div>
       </li>
     </ul></center>
   </div>
