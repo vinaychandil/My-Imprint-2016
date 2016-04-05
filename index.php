@@ -159,7 +159,7 @@
     <div class="parallax"><img src="insti3.jpg" alt="Unsplashed background img 3"></div>
   </div>
   <div class="container scrollspy" id="options">
-    <p class="menuheading">Options of Senior Class Gift 2016 </p>
+    <p class="menuheading">OPTIONS OF SENIOR CLASS GIFT 2016 </p>
     <p class="text">
 
       As the My Imprint Program says, "By the students, For the Students", the following 9 options have been formulated by My Imprint Class Gift Committee, comprising of students only. Please click on The Committee tab to see the names of committee members.<br>
@@ -177,7 +177,8 @@
           </div>
           <div class="card-reveal">
             <span class="card-title grey-text text-darken-4">Adventure Arena<i class="material-icons right">close</i></span>
-            <p class="smalltext"></p>
+            <p class="smalltext">An indoor adventure arena could be setup in Gymkhana facilitating activities such as wall climbing and rappelling to provide enthusiastic students an opportunity to pursue adventure sports in campus
+</p>
           </div>
         </div>
       </div>
