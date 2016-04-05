@@ -251,7 +251,7 @@
           </div>
           <div class="card-reveal">
             <span class="card-title grey-text text-darken-4">Discussion Room in Nalanda<i class="material-icons right">close</i></span>
-            <p class="smalltext">A discussion room in Nalanda Classroom Complex equipped with tables and couches enabling students to discuss.</p>
+            <p class="smalltext">A discussion room in Nalanda Classroom Complex equipped with tables and couches enabling students to hold discussion. </p>
           </div>
         </div>
       </div>
