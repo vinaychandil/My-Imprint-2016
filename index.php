@@ -261,7 +261,7 @@
       <div class="col s12 l4 m4">
         <div class="card">
           <div class="card-image waves-effect waves-block waves-light">
-            <img class="activator" src="img/hall.png">
+            <img class="activator" src="img/hall.png" style="height: 193px">
           </div>
           <div class="card-content">
             <span class="card-title activator grey-text text-darken-4">Social & Cultural Hall</span>
@@ -290,7 +290,7 @@
       <div class="col s12 l4 m4">
         <div class="card">
           <div class="card-image waves-effect waves-block waves-light">
-            <img class="activator" src="img/studio.png">
+            <img class="activator" src="img/studio.png"style="height: 193px">
           </div>
           <div class="card-content">
             <span class="card-title activator grey-text text-darken-4">Music Recording Studio</span>
@@ -604,10 +604,10 @@
       <div class="section no-pad-bot">
         <div class="container">
           <div class="row right-align">
-            <h5 class="light right">All Donors will be given Senior Class of 2016 T-shirts. </h5>
+            <h5 class="light left" style="font-size:1.1rem">All Donors will be given Senior Class of 2016 T-shirts. </h5>
           </div>
           <div class="row left-align" style="margin-top:230px;">
-            <h5 class="light left">Alumni Card and Yearbook 2016 for all the Graduating Students. </h5>
+            <h5 class="light right"style="font-size:1.1rem">Alumni Card and Yearbook 2016 for all the Graduating Students. </h5>
           </div>
         </div>
       </div>
