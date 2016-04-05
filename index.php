@@ -305,13 +305,13 @@
   </div>
   <div class="scrollspy" id='how'>
     <p class="menuheading">HOW TO</p><center>
-    <ul class="collapsible popout" data-collapsible="accordion">
+    <ul class="collapsible popout">
       <li>
         <div class="collapsible-header active">HOW TO VOTE?</div>
         <div class="collapsible-body"><p class="text">Donations would be captured trough ERP <br>An ERP link would be developed on profiles of all the potential passing out students to vote for their Senior Class Gift  </p></div>
       </li>
       <li>
-        <div class="collapsible-header">HOW TO DONATE?</div>
+        <div class="collapsible-header" active>HOW TO DONATE?</div>
         <div class="collapsible-body"><p class="text">Donations would be captured trough ERP <br>An ERP link would be developed on profiles of all the potential passing out students to donate their caution money </p></div>
       </li>
     </ul></center>
@@ -385,7 +385,7 @@
         </div>
       </div>
       <div class="row">
-        <div class="col l4 s12 m7 offset-l1" style="width: 250px">
+        <div class="col l4 s12 m7 offset-l2" style="width: 250px">
           <div class="card">
             <div class="card-image">
               <img src="">
@@ -396,16 +396,6 @@
           </div>
         </div>
         <div class="col l4 s12 m7 "style="width: 250px">
-          <div class="card">
-            <div class="card-image">
-              <img src="">
-            </div>
-            <div class="card-content">
-              <center><p>I am a very simple card.</p></center>
-            </div>
-          </div>
-        </div>
-        <div class="col l4 s12 m7"style="width: 250px">
           <div class="card">
             <div class="card-image">
               <img src="">
@@ -613,7 +603,7 @@
       <div class="section no-pad-bot">
         <div class="container">
           <div class="row left-align">
-            <h5 class="light left">All Donors will be given Class Gift 2016 t-shirts. </h5>
+            <h5 class="light left">All Donors will be given Senior Class of 2016 T-shirts. </h5>
           </div>
         </div>
       </div>
@@ -654,7 +644,7 @@
       <p class="menuheading">CONTACT</p>
       <p class="text" style="padding: 0px"> Office of Alumni Affairs and International Relations</p>
       <p class="smalltext">alumni@hijli.iitkgp.ernet.in<br>
-        +91 3222 282236</p>
+         03222 281860</p>
         <p class="text" style="padding: 0px">Students' Alumni Cell General Secretaries</p>
         <p class="smalltext">Pranshu Jain<br>
           pranshu.iitkgp@gmail.com<br>
