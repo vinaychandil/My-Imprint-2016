@@ -86,7 +86,7 @@
         </div>
       </form>
       <div class="fixed-action-btn" style="bottom:225px; right: 0px;">
-        <a class="btn btn-large red">DONATE NOW
+        <a href="https://erp.iitkgp.ernet.in" class="btn btn-large red">DONATE NOW
         </a>
       </div>
 
@@ -603,8 +603,11 @@
     <div id="index-banner" class="parallax-container">
       <div class="section no-pad-bot">
         <div class="container">
-          <div class="row left-align">
-            <h5 class="light left">All Donors will be given Senior Class of 2016 T-shirts. </h5>
+          <div class="row right-align">
+            <h5 class="light right">All Donors will be given Senior Class of 2016 T-shirts. </h5>
+          </div>
+          <div class="row left-align" style="margin-top:230px;">
+            <h5 class="light left">Alumni Card and Yearbook 2016 for all the Graduating Students. </h5>
           </div>
         </div>
       </div>
