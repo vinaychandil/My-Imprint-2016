@@ -385,7 +385,7 @@
         </div>
       </div>
       <div class="row">
-        <div class="col l4 s12 m7 offset-l2" style="width: 250px">
+        <div class="col l4 s12 m7 offset-l3" style="width: 250px">
           <div class="card">
             <div class="card-image">
               <img src="">
