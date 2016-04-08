@@ -169,7 +169,7 @@
     </div>
   </div>
   <div class="fixed-action-btn" style="bottom:295px;right:0px;">
-  	<a class="btn btn-large red modal-trigger" href="#modal1" style="padding-left:40px;padding-right:40px;">VOTE NOW</a>
+  	<button class="btn btn-large red" type="submit" name="action" style="padding-left:40px;padding-right:40px;">VOTE NOW</button>
   	
   </div>
 </div>
