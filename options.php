@@ -168,6 +168,10 @@
       </div></label>
     </div>
   </div>
+  <div class="fixed-action-btn" style="bottom:295px;right:0px;">
+  	<a class="btn btn-large red modal-trigger" href="#modal1" style="padding-left:40px;padding-right:40px;">VOTE NOW</a>
+  	
+  </div>
 </div>
 	</form>
 </body>
