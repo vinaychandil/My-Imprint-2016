@@ -360,7 +360,7 @@
               <img src="">
             </div>
             <div class="card-content">
-              <center><p>Manish Goyal<br>Ex-SAC G-Sec</p></center>
+              <center><p>Manish Goyal<br>Ex-GSec SAC</p></center>
             </div>
           </div>
         </div>
@@ -370,7 +370,7 @@
               <img src="">
             </div>
             <div class="card-content">
-              <center><p>Arpit Gupta<br>Ex-SAC G-Sec</p></center>
+              <center><p>Arpit Gupta<br>Ex-GSec SAC</p></center>
             </div>
           </div>
         </div>
@@ -392,7 +392,7 @@
               <img src="">
             </div>
             <div class="card-content">
-              <center><p>I am a very simple card. </p></center>
+              <center><p>Pankaj Tyagi<br>PG Representative </p></center>
             </div>
           </div>
         </div>
@@ -402,7 +402,7 @@
               <img src="">
             </div>
             <div class="card-content">
-              <center><p>I am a very simple card.</p></center>
+              <center><p>Anmol Sawat<br>RS Representative</p></center>
             </div>
           </div>
         </div>
@@ -592,7 +592,7 @@
             <img src="">
           </div>
           <div class="card-content">
-            <center><p>Tisha Milind Dixit<br>SN</p></center>
+            <center><p>Tisha Milind Dixit<br>Sister Nivedita</p></center>
           </div>
         </div>
       </div>
