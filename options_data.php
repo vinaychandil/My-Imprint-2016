@@ -12,6 +12,7 @@ if(isset($_POST['vote_slab1']) && isset($_POST['vote_slab2']) && isset($_POST['v
     $file = fopen("votedata.txt", "a") or die("Unable to open file!");
     $txt = $rollno.', '.$vote_slab1.', '.$vote_slab2.', '.$vote_slab3.'\n';
     fwrite($file, $txt);
+    fclose($file);
     header('Location:index.php?vote=success');
     
   }
