@@ -675,5 +675,10 @@
 
   });</script>
 
+<?php
+if(isset($vote)) {
+  echo "<script>alert('Your Vote has been casted. Thank You');</script>";
+}
+?>
 </body>
 </html>
