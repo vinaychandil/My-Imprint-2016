@@ -17,7 +17,7 @@
 		 <p class="menuheading">SLAB 1</p>
     <div class="row">
      <div class="col s12 l4 m4">
-     <input type="radio" id="slab1_elec" name="vote_slab1" />
+     <input type="radio" id="slab1_elec" name="vote_slab1" value="slab1_elec" />
      <label for="slab1_elec"> <div class="card">
         <div class="card-image waves-effect waves-block waves-light">
           <img class="activator" src="img/adventure.png" style="height:192px">
@@ -32,7 +32,7 @@
       </div></label>
     </div>
     <div class="col s12 l4 m4">
-    	<input type="radio" id="slab1_bulletin" name="vote_slab1" />
+    	<input type="radio" id="slab1_bulletin" name="vote_slab1" value="slab1_bulletin"/>
     	<label for="slab1_bulletin">
       <div class="card">
         <div class="card-image waves-effect waves-block waves-light">
@@ -49,7 +49,7 @@
       </label>
     </div>
     <div class="col s12 l4 m4">
-    	<input type="radio" id="slab1_vending" name="vote_slab1" />
+    	<input type="radio" id="slab1_vending" name="vote_slab1" value="slab1_vending"/>
     	<label for="slab1_vending">
       <div class="card">
         <div class="card-image waves-effect waves-block waves-light">
@@ -68,7 +68,7 @@
   <p class="menuheading">SLAB 2</p>
   <div class="row">
     <div class="col s12 l4 m4">
-    	<input type="radio" id="slab2_nalanda" name="vote_slab2" />
+    	<input type="radio" id="slab2_nalanda" name="vote_slab2" value="slab2_nalanda"/>
     	<label for="slab2_nalanda">
       <div class="card">
         <div class="card-image waves-effect waves-block waves-light">
@@ -84,7 +84,7 @@
       </div></label>
     </div>
     <div class="col s12 l4 m4">
-    	<input type="radio" id="slab2_fountain" name="vote_slab2" />
+    	<input type="radio" id="slab2_fountain" name="vote_slab2" value="slab2_fountain" />
     	<label for="slab2_fountain">
       <div class="card">
         <div class="card-image waves-effect waves-block waves-light">
@@ -100,7 +100,7 @@
       </div></label>
     </div>
     <div class="col s12 l4 m4">
-    	<input type="radio" id="slab2_discussion" name="vote_slab2" />
+    	<input type="radio" id="slab2_discussion" name="vote_slab2" value="slab2_discussion"/>
     	<label for="slab2_discussion">
       <div class="card">
         <div class="card-image waves-effect waves-block waves-light">
@@ -119,7 +119,7 @@
   <p class="menuheading">SLAB 3</p>
   <div class="row">
     <div class="col s12 l4 m4">
-    	<input type="radio" id="slab3_socult" name="vote_slab3" />
+    	<input type="radio" id="slab3_socult" name="vote_slab3" value="slab3_socult"/>
     	<label for="slab3_socult">
       <div class="card">
         <div class="card-image waves-effect waves-block waves-light">
@@ -136,7 +136,7 @@
       </div></label>
     </div>
     <div class="col s12 l4 m4">
-    	<input type="radio" id="slab3_center" name="vote_slab3" />
+    	<input type="radio" id="slab3_center" name="vote_slab3" value="slab3_center"/>
     	<label for="slab3_center">
       <div class="card">
         <div class="card-image waves-effect waves-block waves-light">
@@ -152,7 +152,7 @@
       </div></label>
     </div>
     <div class="col s12 l4 m4">
-    	<input type="radio" id="slab3_studio" name="vote_slab3" />
+    	<input type="radio" id="slab3_studio" name="vote_slab3" value="slab3_studio"/>
     	<label for="slab3_studio">
       <div class="card">
         <div class="card-image waves-effect waves-block waves-light">
