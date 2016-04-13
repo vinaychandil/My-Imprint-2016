@@ -676,7 +676,7 @@
   });</script>
 
 <?php
-if(isset($vote)) {
+if(isset($_GET['vote'])) {
   echo "<script>alert('Your Vote has been casted. Thank You');</script>";
 }
 ?>
